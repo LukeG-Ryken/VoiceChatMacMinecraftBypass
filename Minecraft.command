@@ -1,3 +1,4 @@
+#                                                                                                   Click download here^
 #!/bin/sh
 
 osascript -e 'tell application "System Events" to set visible of process "Terminal" to false'
