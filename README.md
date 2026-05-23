@@ -104,6 +104,10 @@ Try this:
 1. Right-click `Minecraft.command`
 2. Click **Open**
 3. Click **Open** again if macOS asks for confirmation
+4. Go to Settings
+5. Privacy and Security and scroll down
+6. Click allow and enter your passoword
+7. Try again and it will work
 
 ### Voice Chat Still Doesn't Work
 
