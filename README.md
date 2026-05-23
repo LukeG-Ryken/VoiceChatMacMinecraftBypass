@@ -2,8 +2,6 @@
 
 Use **Simple Voice Chat** on **Mac** with the **official Minecraft Launcher**.
 
-This guide is written for people with **little or no coding experience**.
-
 ---
 
 ## What This Does
